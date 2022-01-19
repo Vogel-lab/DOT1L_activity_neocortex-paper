@@ -1,4 +1,4 @@
-## scRNA-seq data analysis for the publication: DOT1L activity affects cell lineage progression in the developing brain by controlling metabolic programs
+## scRNA-seq data analysis for the publication: DOT1L activity affects cell lineage progression in the developing brain by controlling metabolic programs (Appiah et al)
 Documentation of workflow used for analysing scRNA-seq data from labelled cells acquired following microinjection or electroporation in embryonic mouse brain (E14.5). Once published, the original data will be available for download at GEO via accession number: GSE176323.
 
 ## Brief description of data acquisition procedure
