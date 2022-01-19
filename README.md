@@ -11,3 +11,7 @@ To run the scripts in the markdown files smoothly, define the working directory 
 Specific versions of packages used must be installed properly. Environment in which analysis were performed is provided and commented on below:
 
 sc3: Data pre-processing, clustering, and downstream analysis and SCENIC anaysis were performed in this conda environment.
+
+Overview of the main seurat analysis has been provided in the folder: Overview_of_Main_Seurat_Analysis_Appiah_et_al. To have view how the figuires in the markdown files should look like, download the files as html and view them in your browser.
+
+
