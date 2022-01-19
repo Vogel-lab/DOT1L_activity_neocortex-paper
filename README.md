@@ -12,6 +12,6 @@ Specific versions of packages used must be installed properly. Environment in wh
 
 sc3: Data pre-processing, clustering, and downstream analysis and SCENIC anaysis were performed in this conda environment.
 
-Overview of the main seurat analysis has been provided in the folder: Overview_of_Main_Seurat_Analysis_Appiah_et_al. To have view how the figuires in the markdown files should look like, download the files as html and view them in your browser.
+Overview of the main seurat analysis has been provided in the folder: Overview_of_Main_Seurat_Analysis_Appiah_et_al. To view how the figures in the markdown files should look like, download the files as html and view them in your browser.
 
 
