@@ -14,11 +14,27 @@ sc3: Data pre-processing, clustering, and downstream analysis and SCENIC anaysis
 
 Overview of the main seurat analysis has been provided in the folder: Overview_of_Main_Seurat_Analysis_Appiah_et_al. To view how the figures in the markdown files should look like, download the files as html and view them in your browser.
 
-### About software
-R version 3.6.1 (2019-07-05)
+### Additional information
 
 Platform: x86_64-conda_cos6-linux-gnu (64-bit)
 
-Running under: Ubuntu 18.10
+About software:
+
+Run under: Ubuntu 18.10 
+
+R version 3.6.1 (2019-07-05)
+
+Python 3.7.6
+
+anaconda-client (version 1.7.2)
+
+Conda 4.8.3
+
+Seurat v3
+
+RaceID3
+
+
+
 
 
