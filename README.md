@@ -8,9 +8,9 @@ Apical progenitors in embryonic mouse brain (E14.5) were labelled either via mic
 
 ## Reproducing the analysis - important notes
 To run the scripts in the markdown files smoothly, define the working directory by using knitr:opts_knit$set(root.dir = 'INSERT PATH TO DIRECTORY').
-Specific versions of packages used must be installed properly. Environment in which analyses were performed is provided and commented on below:
+Specific versions of packages used must be installed properly. Environment in which analyses were performed is provided (both as .yml and text files) and commented on below:
 
-sc3: Data pre-processing, clustering, and downstream analysis and SCENIC anaysis were performed in this conda environment.
+sc3.yml: Data pre-processing, clustering, and downstream analysis and SCENIC anaysis were performed in this conda environment.
 
 Overview of the main seurat analysis has been provided in the folder: Overview_of_Main_Seurat_Analysis_Appiah_et_al. To view how the figures in the markdown files should look like, download the files as html and view them in your browser.
 
