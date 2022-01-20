@@ -16,7 +16,9 @@ Overview of the main seurat analysis has been provided in the folder: Overview_o
 
 ### About software
 R version 3.6.1 (2019-07-05)
+
 Platform: x86_64-conda_cos6-linux-gnu (64-bit)
+
 Running under: Ubuntu 18.10
 
 
