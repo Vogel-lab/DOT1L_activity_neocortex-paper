@@ -11,7 +11,7 @@ output:
 
 ```{r, setup, include=FALSE}
 # Set root directory for markdown file
-knitr::opts_knit$set(root.dir = 'your_directory_here)
+knitr::opts_knit$set(root.dir = 'your_directory_here')
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
